@@ -7,12 +7,12 @@ business performance. Seeking a challenging role in a forward-thinking organizat
 strategic financial planning, data analysis, and decision-making processes.
 
 ## Key Skills
-- Technical - Python, Microsoft Office, Power BI, SQL, Tableau Public, Knime, Digital Marketing, Financial
+- **Technical** - Python, Microsoft Office, Power BI, SQL, Tableau Public, Knime, Digital Marketing, Financial
 Statement Analysis, Business Analytics, Quantitative Analysis
-- Language - English (Professional), Malayalam (Native)
-- Personal - Leadership, Communication, Adaptability, Problem-Solving, Critical Thinking, Teamwork
-- Machine Learning - Supervised and Unsupervised Learning
-- Data Manipulation - Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+- **Language** - English (Professional), Malayalam (Native)
+- **Personal** - Leadership, Communication, Adaptability, Problem-Solving, Critical Thinking, Teamwork
+- **Machine Learning** - Supervised and Unsupervised Learning
+- **Data Manipulation** - Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
 ## Academic Projects
 **MBA Final Project**
