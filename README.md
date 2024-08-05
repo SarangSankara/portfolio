@@ -16,6 +16,7 @@ Statement Analysis, Business Analytics, Quantitative Analysis
 
 ## Academic Projects
 **MBA Final Project**
+
 Apple Inc.
 - Conducted an in-depth research project investigating consumer perspectives regarding Apple products
 and evaluating satisfaction levels associated with the Apple brand.
