@@ -42,15 +42,3 @@ services.
 ## Education
 ![Education](/assets/img/edu.png)
 
-[comment]: <> (- PGD, Data Science and Business Analytics | Great Learning (_August 2024_))								       		
-- MBA, Finance and Marketing	| Sahyadro College of Engineering and Management, Mangalore (_November 2022_)	 			        		
-- BA, English and Language Literature | University of Kerala, Trivandrum (_August 2020_)
-
-
-### Education
-| Course                                             | Institution                                               | Year |
-|----------------------------------------------------|-----------------------------------------------------------|------|
-| Pursuing CFA Level 1                               | CFA Institute                                             | 2024 |
-| PG Diploma in Data Science and  Business Analytics | Great Lakes Institute of Management, Bengaluru            | 2024 |
-| MBA – Finance and Marketing                        | Sahyadri College of Engineering and Management, Mangalore | 2022 |
-| BA English Language and Literature                 | Kerala University, Trivandrum                             | 2020 |
