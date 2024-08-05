@@ -1,6 +1,6 @@
 # portfolio
 
-#Data Scientist
+# Data Scientist
 
 ### Education
 MBA - Finance and Marketing
