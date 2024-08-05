@@ -41,7 +41,7 @@ services.
 ## Education
 ![Education](/assets/img/edu.png)
 
-[comment]: - PGD, Data Science and Business Analytics | Great Learning (_August 2024_)								       		
+[comment]: <> (- PGD, Data Science and Business Analytics | Great Learning (_August 2024_))								       		
 - MBA, Finance and Marketing	| Sahyadro College of Engineering and Management, Mangalore (_November 2022_)	 			        		
 - BA, English and Language Literature | University of Kerala, Trivandrum (_August 2020_)
 
