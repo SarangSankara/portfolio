@@ -29,7 +29,8 @@ to the company's financial stability and market relevance
 - Evaluated how specific features and characteristics of the house contribute to its overall value.
 
 ## WORK EXPERIENCE
-**Xpego Trips Pvt Ltd (India office of Bedouin Trips Tourism LLC, UAE)** | DECEMBER, 2022 – DECEMBER 2023
+**Xpego Trips Pvt Ltd (India office of Bedouin Trips Tourism LLC, UAE)** | (_DECEMBER, 2022 – DECEMBER 2023_)
+
 Junior Accountant
 - Maintaining and updating financial records, including accounts payable, accounts receivable, and general
 ledger entries, specifically related to travel bookings, tour packages, and related expenses.
