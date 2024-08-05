@@ -1,12 +1,12 @@
 # Data Scientist
 
-### Career Objective
+## Career Objective
 Detail-oriented and results-driven finance professional with a strong background in business analytics and data
 science, seeking to leverage analytical skills and financial acumen to drive strategic decision-making and optimize
 business performance. Seeking a challenging role in a forward-thinking organization where I can contribute to
 strategic financial planning, data analysis, and decision-making processes.
 
-### Key Skills
+## Key Skills
 - Technical - Python, Microsoft Office, Power BI, SQL, Tableau Public, Knime, Digital Marketing, Financial
 Statement Analysis, Business Analytics, Quantitative Analysis
 - Language - English (Professional), Malayalam (Native)
@@ -14,7 +14,7 @@ Statement Analysis, Business Analytics, Quantitative Analysis
 - Machine Learning - Supervised and Unsupervised Learning
 - Data Manipulation - Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
-### Academic Projects
+## Academic Projects
 **MBA Final Project**
 Apple Inc.
 - Conducted an in-depth research project investigating consumer perspectives regarding Apple products
@@ -28,7 +28,7 @@ to the company's financial stability and market relevance
 - Delivered a clear and concise report summarizing the findings and recommendations for the homeowner.
 - Evaluated how specific features and characteristics of the house contribute to its overall value.
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 **Xpego Trips Pvt Ltd (India office of Bedouin Trips Tourism LLC, UAE)** | DECEMBER, 2022 – DECEMBER 2023
 Junior Accountant
 - Maintaining and updating financial records, including accounts payable, accounts receivable, and general
@@ -36,6 +36,12 @@ ledger entries, specifically related to travel bookings, tour packages, and rela
 - Generating and managing invoices for tour packages, hotel bookings, transportation, and other travel-related
 services.
 - Monitoring expenses related to marketing campaigns, travel packages, and operational costs.
+
+## Education
+- PGD, Data Science and Business Analytics | Great Learning (_August 2024_)								       		
+- MBA, Finance and Marketing	| Sahyadro College of Engineering and Management, Mangalore (_November 2022_)	 			        		
+- BA, English and Language Literature | University of Kerala, Trivandrum (_August 2020_)
+
 
 ### Education
 | Course                                             | Institution                                               | Year |
