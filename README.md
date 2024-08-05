@@ -40,5 +40,5 @@ services.
 - Monitoring expenses related to marketing campaigns, travel packages, and operational costs.
 
 ## Education
-![Education](/assets/img/edu.png)
+![Education](/assets/img/edu2.png)
 
