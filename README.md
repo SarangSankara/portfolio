@@ -1,5 +1,5 @@
 # Data Scientist
-
+## [E-portfolio](https://eportfolio.mygreatlearning.com/sarang-s-panicker)
 ## Career Objective
 Detail-oriented and results-driven finance professional with a strong background in business analytics and data
 science, seeking to leverage analytical skills and financial acumen to drive strategic decision-making and optimize
